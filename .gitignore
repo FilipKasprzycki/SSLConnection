@@ -1,0 +1,13 @@
+# Compiled class file
+*.class
+target/
+
+# Log file
+*.log
+
+# Package Files #
+*.jar
+
+# IntelliJ Files #
+.idea/*
+*.iml
